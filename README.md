@@ -25,7 +25,7 @@ This project performs customer segmentation using KMeans Clustering based on ann
 
 | Metric | Score |
 |---|---|
-| Silhouette Score | BURAYA-SCORE |
+| Silhouette Score | 0.554 |
 
 ## Hugging Face Demo
 
